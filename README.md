@@ -1,5 +1,4 @@
 # Web-development
-Apologies for that oversight. Let's update the README again to remove the playlist creation and search functionalities:
 
 ## Spotify Clone
 
