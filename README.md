@@ -5,7 +5,7 @@ This project is a Spotify clone built using HTML, CSS, and JavaScript to replica
 
 
 
-## Screen Short
+### Screen Short
 ![image](https://github.com/Manohar2001/Web-development/assets/107456976/588d6f46-95a0-4d62-9aaa-8eda2e510d03)
 
 
