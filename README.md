@@ -1,8 +1,10 @@
-# Web-development
 
 ## Spotify Clone
 
 This project is a Spotify clone built using HTML, CSS, and JavaScript to replicate the look and feel of the popular music streaming platform, Spotify. It offers a user-friendly interface and provides essential functionalities for song playback (play, pause, forward, backward).
+**Screen Short**
+![image](https://github.com/Manohar2001/Web-development/assets/107456976/588d6f46-95a0-4d62-9aaa-8eda2e510d03)
+
 
 ### Features
 
